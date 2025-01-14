@@ -1,2 +1,2 @@
 # DEAW
-Aquest es un repo per a realitzar proves
+Aquest es un repositori per a realitzar proves
