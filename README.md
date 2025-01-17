@@ -7,6 +7,6 @@ Aquest es un text per a comprovar el commit i el push
 
 | Nom     | GitHub                      |
 |---------|-----------------------------|
-| Company 1 | ([Axel](https://github.com/AxelDAW)) |
-| Company 2 | ([Borja](https://github.com/Borja725)) |
-| Company 3 | ([Edu](https://github.com/SrXpensive)) |
+| Company 1 | [Axel](https://github.com/AxelDAW) |
+| Company 2 | [Borja](https://github.com/Borja725) |
+| Company 3 | [Edu](https://github.com/SrXpensive) |
